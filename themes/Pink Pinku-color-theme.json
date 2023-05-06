@@ -217,7 +217,7 @@
 			"storage.modifier"
 		  ],
 		  "settings": {
-			"foreground": "#FFEF94"
+			"foreground": "#eb9c9c"
 		  }
 		},
 		{
@@ -392,7 +392,7 @@
 			"variable.other.property.js"
 		  ],
 		  "settings": {
-			"foreground": "#FFF7B4",
+			"foreground": "#fbdad3",
 			"fontStyle": ""
 		  }
 		},
