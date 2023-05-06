@@ -3,7 +3,7 @@
   "displayName": "Pink Pinku",
   "description": "Cute pink and yellow colour theme for your vscode",
   "publisher": "mossesox",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.78.0"
   },
