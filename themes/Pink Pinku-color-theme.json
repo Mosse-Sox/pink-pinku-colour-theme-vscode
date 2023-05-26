@@ -342,10 +342,11 @@
 			"punctuation.definition.comment.scss",
 			"punctuation.definition.comment.js",
 			"punctuation.definition.comment.html",
-			"comment.block.html"
+			"comment.block.html",
+			"comment.block.js"
 		  ],
 		  "settings": {
-			"foreground": "#7d9aa4"
+			"foreground": "#b4f06a"
 		  }
 		},
 		{
